@@ -5,7 +5,7 @@ Development of AIML based models for predicting prices of agri-horticultural com
 # Proposed Solution
 --> Developing a Crop Price Prediction model which helps farmers anticipate future crop prices by Machine Learning.                             
 --> Our solution combines data from various resources like government websites to train the model. The resulting predictions are displayed on a user-friendly platform where farmers can 
-    easily access & interpret prices.
+    easily access & interpret prices.                                                              
 --> The prototype is a web-based platform users input crop details and receive real-time price predictions.
 # Research & References
 --> Government Agriculture database on prices of the commodities from 2018-2023 for every state and for every month.
