@@ -3,7 +3,7 @@ Crop Price Prediction uses machine learning to forecast crop prices based on his
 # Problem Staatement
 Development of AIML based models for predicting prices of agri-horticultural commodities such as pulses and vegetables(onion, potato, onion).
 # Proposed Solution
---> Developing a Crop Price Prediction model which helps farmers anticipate future crop prices by Machine Learning.
+--> Developing a Crop Price Prediction model which helps farmers anticipate future crop prices by Machine Learning.                             
 --> Our solution combines data from various resources like government websites to train the model. The resulting predictions are displayed on a user-friendly platform where farmers can 
     easily access & interpret prices.
 --> The prototype is a web-based platform users input crop details and receive real-time price predictions.
