@@ -8,8 +8,8 @@ Development of AIML based models for predicting prices of agri-horticultural com
     easily access & interpret prices.                                                              
 --> The prototype is a web-based platform users input crop details and receive real-time price predictions.
 # Research & References
---> Government Agriculture database on prices of the commodities from 2018-2023 for every state and for every month.
---> Agriculture Prices in India – https://desagri.gov.in
+--> Government Agriculture database on prices of the commodities from 2018-2023 for every state and for every month.                        
+--> Agriculture Prices in India – https://desagri.gov.in                                               
 --> Statistical and Data Preprocessing Tools and Python Libraries like Pandas, Numpys and Matplotlib.
 
 
